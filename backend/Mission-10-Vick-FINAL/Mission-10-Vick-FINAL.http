@@ -1,0 +1,6 @@
+@Mission_10_Vick_FINAL_HostAddress = http://localhost:5096
+
+GET {{Mission_10_Vick_FINAL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
